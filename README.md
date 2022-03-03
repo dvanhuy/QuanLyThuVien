@@ -1,4 +1,4 @@
 # QuanLyThuVien
 
-    File connectjava.sql là file tạo database
+    File connectwithjava.sql là file tạo database
     
